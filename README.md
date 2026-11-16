@@ -2,7 +2,7 @@
 
 **Advanced AI Voice Studio** by **GHX Studio** — Voice Cloning & Text-to-Speech in **600+ languages**.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AS-STUDIO-PRO/GHX-VOICE-STUDIO-V4/blob/main/GHX_Voice_Studio_V4.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GHX-STUDIO-786/GHX-VOICE-STUDIO-V4/blob/main/GHX_Voice_Studio_V4.ipynb)
 [![License](https://img.shields.io/badge/license-Private-red.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)]()
 [![Gradio](https://img.shields.io/badge/UI-Gradio-orange.svg)]()
